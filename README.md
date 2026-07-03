@@ -1,16 +1,17 @@
-## Hi there 👋
-
-<!--
-**chinixdev/chinixdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+<h1> Hi I'm ChinixDev <img src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gifs/Hi.gif" width="30"></h1>
+<a href="https://linkedin.com/in/abdoachhoubi" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://twitter.com/abdo_achhoubi" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/abdo.achhoubi" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>
+<a href="https://achhoubiplus.hashnode.dev" target="_blank">
+<img src=https://img.shields.io/badge/hashnode-%2300acee.svg?color=2962FF&style=for-the-badge&logo=hashnode&logoColor=white alt=hshnode style="margin-bottom: 5px;" />
+</a>
+<br />
+<br />
+</div>
